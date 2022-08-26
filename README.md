@@ -34,4 +34,5 @@ Note:
 - If the Trackpad is not working maybe try changing the Kext.
 - If the Hackintosh failed and you wiped the WIndows partition, it's not my fault. So don't blame me if something terrible happened.
 - Some of the kext are outdated so if you encounter some driver problem, try updating the kext.
+- If you expirence some problem on your headphone jack, please download ComboJack: https://github.com/hackintosh-stuff/ComboJack
 
