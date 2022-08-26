@@ -1,7 +1,7 @@
 # Acer-Aspire-5-A514-52G-EFI
 Hi. This is u/IanParas from Reddit. And I want to share to my fellow Hackintosher my EFI. Note that this will only work on the Aspire 5 A514-52G model. If you don't have the same model but have same specs you can try it. If you want to build your own EFI, just visit Dortania's OpenCore Guide for the instructions
 
-Thanks for u/Nobbylobo for helpng me create this EFI
+Thanks for u/Nobbylobo for helping me create this EFI
 
 macOS Monterey and macOS Ventura Ready EFI
 
@@ -33,4 +33,5 @@ The next release of the EFI will be after macOS Ventura has been released. Will 
 Note:
 - If the Trackpad is not working maybe try changing the Kext.
 - If the Hackintosh failed and you wiped the WIndows partition, it's not my fault. So don't blame me if something terrible happened.
+- Some of the kext are outdated so if you encounter some driver problem, try updating the kext.
 
