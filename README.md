@@ -26,6 +26,7 @@ Things that doesn't work inside the OS:
 N/A
 
 Things that doesn't work outside the OS (EFI):
+
 N/A
 
 Note:
