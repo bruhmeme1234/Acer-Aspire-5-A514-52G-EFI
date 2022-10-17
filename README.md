@@ -26,9 +26,7 @@ Things that doesn't work inside the OS:
 N/A
 
 Things that doesn't work outside the OS (EFI):
-- OpenCore Themes & Sound Chime
-
-The next release of the EFI will be after macOS Ventura has been released. Will try to fix the OC Themes. But for now this is the only thing we can do. We don't know what causes the Themes to fail. 
+N/A
 
 Note:
 - If the Trackpad is not working maybe try changing the Kext.
