@@ -5,7 +5,7 @@ Thanks for u/Nobbylobo for helping me create this EFI
 
 macOS Monterey and macOS Ventura Ready EFI
 
-`OpenCore Version: 0.8.3`
+`OpenCore Version: 0.8.5`
 
 *Acer Aspire 5 A514-52G 31YS Specification*
 
