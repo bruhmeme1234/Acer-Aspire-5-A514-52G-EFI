@@ -23,7 +23,9 @@ macOS Monterey and macOS Ventura Ready EFI
 
 Things that doesn't work inside the OS: 
 
-N/A
+Lossless, Hi-Res Lossless, Dolby Atmos Audio Quality on Dolby Atmos
+
+Continuity Features (Looks like a kext problem because on macOS Big Sur below continuity is working)
 
 Things that doesn't work outside the OS (EFI):
 
@@ -32,6 +34,6 @@ N/A
 Note:
 - If the Trackpad is not working maybe try changing the Kext.
 - If the Hackintosh failed and you wiped the WIndows partition, it's not my fault. So don't blame me if something terrible happened.
-- Some of the kext are outdated so if you encounter some driver problem, try updating the kext.
+- Some of the kext might be outdated so if you encounter some driver problem, try updating the kext.
 - If you expirence some problem on your headphone jack, please download ComboJack: https://github.com/hackintosh-stuff/ComboJack
 
