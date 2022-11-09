@@ -13,7 +13,7 @@ macOS Monterey and macOS Ventura Ready EFI
 - CPU Codename: Comet Lake
 - GPU: Intel UHD Graphics | nVIDIA GeForce MX250 (Disabled)
 - Trackpad: Synaptics I2C Trackpad with Windows Precision 
-- Wireless: Intel(R) Wi-Fi 6 AX201 160MHz
+- Wireless: Fenvi BCM94360NG
 - Ethernet Card: Realtek PCIe GbE Family Controller
 - Audio: Realtek (R) Audio
 - Apple Codec: ALC256
@@ -25,7 +25,6 @@ Things that doesn't work inside the OS:
 
 Lossless, Hi-Res Lossless, Dolby Atmos Audio Quality on Dolby Atmos
 
-Continuity Features (Looks like a kext problem because on macOS Big Sur below continuity is working)
 
 Things that doesn't work outside the OS (EFI):
 
