@@ -5,7 +5,7 @@ Thanks for u/Nobbylobo for helping me create this EFI
 
 macOS Monterey and macOS Ventura Ready EFI
 
-`OpenCore Version: 0.8.5`
+`OpenCore Version: 0.8.6`
 
 *Acer Aspire 5 A514-52G 31YS Specification*
 
@@ -16,7 +16,7 @@ macOS Monterey and macOS Ventura Ready EFI
 - Wireless: Fenvi BCM94360NG
 - Ethernet Card: Realtek PCIe GbE Family Controller
 - Audio: Realtek (R) Audio
-- Apple Codec: ALC256
+- Apple Codec: ALC256 (alcid=21)
 - RAM: 20GB DDR4 2400MHz
 - Storage:  SSD: NVMe WDC PC SN520 SDA | HDD: WDC WD10SPZX-21Z10T0
 
@@ -35,4 +35,4 @@ Note:
 - If the Hackintosh failed and you wiped the WIndows partition, it's not my fault. So don't blame me if something terrible happened.
 - Some of the kext might be outdated so if you encounter some driver problem, try updating the kext.
 - If you expirence some problem on your headphone jack, please download ComboJack: https://github.com/hackintosh-stuff/ComboJack
-
+- On the past EFI, there's a kext for Intel Wireless and Bluetooth. On the last update I removed every Intel Wireless and Bluetooth kext because I don't need anymore. You can always add it again. If you have Intel Network Card
