@@ -17,13 +17,13 @@ macOS Monterey and macOS Ventura Ready EFI
 - Ethernet Card: Realtek PCIe GbE Family Controller
 - Audio: Realtek (R) Audio
 - Apple Codec: ALC256 (alcid=21)
-- RAM: 20GB DDR4 2400MHz
+- RAM: 20GB DDR4 2400MHz (4GB + 16GB RAM)
 - Storage:  SSD: KINGSTON SNV2S1000G | HDD: WDC WD10SPZX-21Z10T0
 
 
 Things that doesn't work inside the OS: 
 
-Lossless, Hi-Res Lossless, Dolby Atmos Audio Quality on Apple Music, Apple TV, AirDrop, AirPlay, Sidecar etx
+Lossless, Hi-Res Lossless, Dolby Atmos Audio Quality on Apple Music, Apple TV, AirDrop, AirPlay, Sidecar etc
 
 
 Things that doesn't work outside the OS (EFI):
@@ -32,7 +32,7 @@ N/A
 
 Note:
 - If the Trackpad is not working maybe try changing the Kext.
-- If the Hackintosh failed and you wiped the WIndows partition, it's not my fault. So don't blame me if something terrible happened.
+- If the Hackintosh failed and you wiped the Windows partition, it's not my fault. So don't blame me if something terrible happened.
 - Some of the kext might be outdated so if you encounter some driver problem, try updating the kext.
 - If you expirence some problem on your headphone jack, please download ComboJack: https://github.com/hackintosh-stuff/ComboJack
 - On the past EFI, there's a kext for Intel Wireless and Bluetooth. On the last update I removed every Intel Wireless and Bluetooth kext because I don't need anymore. You can always add it again. If you have Intel Network Card
