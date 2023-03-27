@@ -18,12 +18,12 @@ macOS Monterey and macOS Ventura Ready EFI
 - Audio: Realtek (R) Audio
 - Apple Codec: ALC256 (alcid=21)
 - RAM: 20GB DDR4 2400MHz
-- Storage:  SSD: NVMe WDC PC SN520 SDA | HDD: WDC WD10SPZX-21Z10T0
+- Storage:  SSD: KINGSTON SNV2S1000G | HDD: WDC WD10SPZX-21Z10T0
 
 
 Things that doesn't work inside the OS: 
 
-Lossless, Hi-Res Lossless, Dolby Atmos Audio Quality on Dolby Atmos
+Lossless, Hi-Res Lossless, Dolby Atmos Audio Quality on Apple Music, Apple TV, AirDrop, AirPlay, Sidecar etx
 
 
 Things that doesn't work outside the OS (EFI):
@@ -36,3 +36,6 @@ Note:
 - Some of the kext might be outdated so if you encounter some driver problem, try updating the kext.
 - If you expirence some problem on your headphone jack, please download ComboJack: https://github.com/hackintosh-stuff/ComboJack
 - On the past EFI, there's a kext for Intel Wireless and Bluetooth. On the last update I removed every Intel Wireless and Bluetooth kext because I don't need anymore. You can always add it again. If you have Intel Network Card
+
+Note from the creator:
+This is my last upload of the EFI. It's up to you now if you want to update the EFI. I'll now archive this repo since there'll be no updates anymore.
